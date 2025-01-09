@@ -1,6 +1,6 @@
 ### Hi, I'm Fatma Reyad:
 
-- 🎓 **Front-End Developer** || **UI/UX Specialist** | Graduated in Computer Science from the Faculty of Computers and Artificial Intelligence - MUST University.  
+- 🎓 **Software Testing Engineer ||Front-End Developer** || **UI/UX Specialist** | Graduated in Computer Science from the Faculty of Computers and Artificial Intelligence - MUST University.  
 - 📫 Feel free to connect with me through the links below:  
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatma-reyad-b888b0345)
